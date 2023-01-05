@@ -1,4 +1,4 @@
-# switch diferents versions of java in kali linux
+# switch differents versions of java in kali linux
 
 ## know how java sdk
 ```bash
@@ -54,7 +54,7 @@ sdk install java 11.0.17-amzn
 eix opendjk
 ```
 
-## know how java jenv versions for diferents java versions
+## know how java jenv versions for differents java versions
 
 ```bash
 jenv versions
